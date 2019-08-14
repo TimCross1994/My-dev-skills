@@ -1,7 +1,23 @@
+*{
+    box-sizing: grid;
+}
 body{
-    color: red;
+    display: grid;
+}
+h1 {
+    background-color: #a0c27f;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 50px;
+    margin: 0;
 }
 
-title {
-    color: blue;
+p {
+    color: #e09323;
+    text-indent: 120px;
+}
+button {
+    color: #7fa655;
 }
